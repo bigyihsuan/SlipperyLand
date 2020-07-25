@@ -1,0 +1,4 @@
+D:\Programming\GitHub Repos\SlipperyLand\obj\Debug\netstandard2.0\SlipperyLand.csprojAssemblyReference.cache
+D:\Programming\GitHub Repos\SlipperyLand\obj\Debug\netstandard2.0\SlipperyLand.AssemblyInfoInputs.cache
+D:\Programming\GitHub Repos\SlipperyLand\obj\Debug\netstandard2.0\SlipperyLand.AssemblyInfo.cs
+D:\Programming\GitHub Repos\SlipperyLand\obj\Debug\netstandard2.0\SlipperyLand.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+﻿{
+	"Id": "SlipperyLand",
+	"DisplayName": "Slippery Land",
+	"Author": "bigyihsuan",
+	"Version": "1.0.0",
+	"AssemblyName": "SlipperyLand.dll",
+	"EntryMethod": "SlipperyLand.Main.Load"
+}
